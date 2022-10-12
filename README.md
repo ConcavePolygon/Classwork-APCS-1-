@@ -1,3 +1,9 @@
+UPDATE!
+I've moved all of my files to classwork-ConcavePolygon. 
+From now on, I'll be doing my classwork from that repository, NOT this one.
+- Stanley Tung (10/11/22)
+
+### Ignore text below
 # Classwork-APCS-1-
 Includes all classwork that are meant to be typed (i.e. java files). 
 
